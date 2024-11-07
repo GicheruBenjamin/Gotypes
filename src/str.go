@@ -1,5 +1,5 @@
-// src/str.go
-package str
+
+package src
 
 import (
 	"fmt"
